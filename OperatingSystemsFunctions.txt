@@ -1,0 +1,1 @@
+Memory Managment is primarily done through the Kernel. The kernel assigns/unassigns various memory based upon the requests of applications. This includes managing the swap file when you overexceed your RAM.
