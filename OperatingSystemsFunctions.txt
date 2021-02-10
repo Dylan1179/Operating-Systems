@@ -1,1 +1,3 @@
 Memory Managment is primarily done through the Kernel. The kernel assigns/unassigns various memory based upon the requests of applications. This includes managing the swap file when you overexceed your RAM.
+
+Task Managment is also done through the kernel. THe kernel manages all tasks on your computer. This is done through various priorities assigned to the tasks, effectively giving the higher priorities more CPU time.
